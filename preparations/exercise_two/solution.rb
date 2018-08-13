@@ -1,0 +1,1 @@
+puts "rm -r my_folder"
